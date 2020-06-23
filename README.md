@@ -8,7 +8,8 @@ The problem that I wanted to solve is shown below. When trying to flip heavy obj
 <img src=project_images/failure_gif15.gif>
 
 ## The model
-Modeling the in-hand slip phenomina is interesting. It relates the inclination angle to the slip-driven in-hand angle. For more on this, please refer to the [paper]().
+Modeling the in-hand slip phenomina is interesting. It relates the inclination angle to the slip-driven in-hand angle. For more on this, please refer to the [paper](https://ieeexplore.ieee.org/document/9044335).
+
 <img src=project_images/model.gif>
 
 ## The solution
