@@ -9,7 +9,7 @@ The problem that I wanted to solve is shown below. When trying to flip heavy obj
 
 ## The model
 Modeling the in-hand slip phenomina is interesting. It relates the inclination angle to the slip-driven in-hand angle. For more on this, please refer to the [paper]().
-<img src=project_images/model.png>
+<img src=project_images/model.gif>
 
 ## The solution
 Three different sizes of boards were used in the experiments, big, medium, and small. The following videos show the successful motion sequences found by the planner. The planner applies constraint relaxation according to the expected gavity torque that every specific object may experience during manipulation.
