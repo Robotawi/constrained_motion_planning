@@ -29,7 +29,7 @@ The planner found that there is no need at all for limiting the constraint for t
 
 
 ## Real application
-The above method is deployed in a dual-arm manipulation system.
+The above method is deployed in a dual-arm manipulation system to enhance its capabaility of manipulating heavy objects.
 
 <img src=project_images/dual_arm_manipulation.gif>
 
