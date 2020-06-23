@@ -16,13 +16,25 @@ Modeling the in-hand slip phenomina is interesting. It relates the inclination a
 Three different sizes of boards were used in the experiments, big, medium, and small. The following videos show the successful motion sequences found by the planner. The planner applies constraint relaxation according to the expected gavity torque that every specific object may experience during manipulation.
 
 ### The big board flipping
+The planner determines tight constraint angle (10°) as the board has large dimentions.
 <img src=project_images/big_board1.gif>
 
-### The medium board flipping 
+### The medium board flipping
+The planner determines more relaxed constraint angle (40°) for the medium board.
 <img src=project_images/med_board1.gif>
 
 ### The small board flipping 
+The planner found that there is no need at all for limiting the constraint for the small board.
 <img src=project_images/small_board1.gif>
 
 
 ## Real application
+The above method is deployed in a dual-arm manipulation system.
+
+<img src=project_images/dual_arm_manipulation.gif>
+
+The details of this project are described in [this paper](https://ieeexplore.ieee.org/document/9044335). This module was integrated in my lab's robotics development environemt as a method for 3D pose estimation. 
+
+## Contact
+If you are interested in the presented work/ideas, or if you have any questions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohraess). We can disuss about this project and other interesting projects.
+
