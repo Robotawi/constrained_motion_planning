@@ -13,7 +13,7 @@ Modeling the in-hand slip phenomina is interesting. It relates the inclination a
 <img src=project_images/model.gif>
 
 ## Solution
-Three different sizes of boards were used in the experiments, big, medium, and small. The following videos show the successful motion sequences found by the planner. The planner applies constraint relaxation according to the expected gavity torque that every specific object may experience during manipulation.
+Three different sizes of boards were used in the experiments, large, medium, and small. The following videos show the successful motion sequences found by the planner. The planner applies constraint relaxation according to the expected gavity torque that every specific object may experience during manipulation.
 
 ### Big board flipping
 The planner determines tight constraint angle (10°) as the board has large dimentions.
